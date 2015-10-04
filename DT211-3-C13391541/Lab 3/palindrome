@@ -1,0 +1,8 @@
+#Program to see if a string is a palindrome
+#Gavin Somers
+
+string1 = "Oxo"
+string2 = "OXO"
+string3 = 123454321
+string4 = ROTATOR
+string5 = 12345 54321
